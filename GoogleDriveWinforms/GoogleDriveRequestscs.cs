@@ -25,8 +25,8 @@ namespace GoogleDriveWinforms
     {
         HttpClient httpClient = new();
         private const string CredentialsPath = @".\someFiles\credentials.json";
-        string clientId = "988208208670-i5rcfn2eelubbkecv04ipenhog22bm4v.apps.googleusercontent.com";
-        string clientSecret = "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";
+        string clientId = "візьми сам при вході";
+        string clientSecret = "візьми сам при вході";
         string tokenPath = @".\someFiles";
         string[] scopes = { DriveService.Scope.Drive };
         UserCredential userCredentials;
