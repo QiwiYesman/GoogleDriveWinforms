@@ -4,4 +4,4 @@
 - Швидкий доступ до елементів диску в ієрархічному порядку.
 - На формі одразу усі необхідні функції видалення, завантаження на диск і з диску, створення і завантаження тек.
 - Отримання розмірів файлів і тек.
-![preview](https://github.com/[QiwiYesman]/[GoogleDriveWinforms]/blob/[master]/image.jpg?raw=true)
+![preview](https://github.com/[QiwiYesman]/[GoogleDriveWinforms]/blob/[master]/image.png?raw=true)
